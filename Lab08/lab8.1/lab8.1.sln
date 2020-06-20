@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab8.1", "lab8.1\lab8.1.csproj", "{F5E35E17-DA05-4F08-BAEB-CC5C0196A5D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibl", "bibl\bibl.csproj", "{D26A38AC-B48B-481F-8D98-9DD3BA21476D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E35E17-DA05-4F08-BAEB-CC5C0196A5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E35E17-DA05-4F08-BAEB-CC5C0196A5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E35E17-DA05-4F08-BAEB-CC5C0196A5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E35E17-DA05-4F08-BAEB-CC5C0196A5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26A38AC-B48B-481F-8D98-9DD3BA21476D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26A38AC-B48B-481F-8D98-9DD3BA21476D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26A38AC-B48B-481F-8D98-9DD3BA21476D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26A38AC-B48B-481F-8D98-9DD3BA21476D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {536A5424-3EEE-4B29-B986-F6EC1F8A35EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.exe
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.deps.json
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.runtimeconfig.json
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.runtimeconfig.dev.json
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.dll
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.pdb
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.csprojAssemblyReference.cache
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.AssemblyInfoInputs.cache
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.AssemblyInfo.cs
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.dll
+C:\Users\kl0op\source\Labs\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.pdb
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.exe
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.deps.json
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.runtimeconfig.json
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.runtimeconfig.dev.json
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.dll
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\bin\Debug\netcoreapp3.1\square of triangle.pdb
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.csprojAssemblyReference.cache
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.AssemblyInfoInputs.cache
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.AssemblyInfo.cs
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.dll
+C:\Users\kl0op\Desktop\лабораторные по технологиям программирования\#1\Lab01\square of triangle\square of triangle\obj\Debug\netcoreapp3.1\square of triangle.pdb

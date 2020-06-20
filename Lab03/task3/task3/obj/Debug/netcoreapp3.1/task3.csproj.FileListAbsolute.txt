@@ -1,0 +1,10 @@
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\bin\Debug\netcoreapp3.1\task3.exe
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\bin\Debug\netcoreapp3.1\task3.dll
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\bin\Debug\netcoreapp3.1\task3.pdb
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\obj\Debug\netcoreapp3.1\task3.dll
+C:\Users\kl0op\source\Labs\Lab03\task3\task3\obj\Debug\netcoreapp3.1\task3.pdb

@@ -1,0 +1,23 @@
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.exe
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.deps.json
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.runtimeconfig.json
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.runtimeconfig.dev.json
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.dll
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.pdb
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.AssemblyInfoInputs.cache
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.AssemblyInfo.cs
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.dll
+C:\Users\kl0op\source\Labs\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.pdb
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.exe
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.deps.json
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.runtimeconfig.json
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.runtimeconfig.dev.json
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.dll
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\bin\Debug\netcoreapp3.1\Progression.pdb
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.AssemblyInfoInputs.cache
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.AssemblyInfo.cs
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.dll
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.pdb
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\Progression\Progression\obj\Debug\netcoreapp3.1\Progression.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\kl0op\source\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\Виталий\Desktop\лабораторные по технологиям программирования\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache

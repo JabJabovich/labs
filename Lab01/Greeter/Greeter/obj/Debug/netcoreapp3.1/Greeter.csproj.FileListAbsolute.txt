@@ -1,0 +1,11 @@
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\bin\Debug\netcoreapp3.1\Greeter.exe
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\bin\Debug\netcoreapp3.1\Greeter.deps.json
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\bin\Debug\netcoreapp3.1\Greeter.runtimeconfig.json
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\bin\Debug\netcoreapp3.1\Greeter.runtimeconfig.dev.json
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\bin\Debug\netcoreapp3.1\Greeter.dll
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\bin\Debug\netcoreapp3.1\Greeter.pdb
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\obj\Debug\netcoreapp3.1\Greeter.csprojAssemblyReference.cache
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\obj\Debug\netcoreapp3.1\Greeter.AssemblyInfoInputs.cache
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\obj\Debug\netcoreapp3.1\Greeter.AssemblyInfo.cs
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\obj\Debug\netcoreapp3.1\Greeter.dll
+C:\Users\kl0op\source\Labs\Lab01\Greeter\Greeter\obj\Debug\netcoreapp3.1\Greeter.pdb
