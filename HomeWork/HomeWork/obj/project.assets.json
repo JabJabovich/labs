@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitaliy\\Desktop\\HomeWork\\HomeWork\\HomeWork.csproj",
+      "projectUniqueName": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\HomeWork\\HomeWork\\HomeWork.csproj",
       "projectName": "HomeWork",
-      "projectPath": "C:\\Users\\Vitaliy\\Desktop\\HomeWork\\HomeWork\\HomeWork.csproj",
+      "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\HomeWork\\HomeWork\\HomeWork.csproj",
       "packagesPath": "C:\\Users\\Vitaliy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitaliy\\Desktop\\HomeWork\\HomeWork\\obj\\",
+      "outputPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\HomeWork\\HomeWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Vitaliy\\Desktop\\HomeWork\\Bibl\\Bibl.csproj": {
-              "projectPath": "C:\\Users\\Vitaliy\\Desktop\\HomeWork\\Bibl\\Bibl.csproj"
+            "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\HomeWork\\Bibl\\Bibl.csproj": {
+              "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\HomeWork\\Bibl\\Bibl.csproj"
             }
           }
         }

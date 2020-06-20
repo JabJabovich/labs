@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice2\\Game\\ConsoleApp1\\Game.csproj": {}
+    "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice2\\Game\\ConsoleApp1\\Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice2\\Game\\ConsoleApp1\\Game.csproj": {
+    "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice2\\Game\\ConsoleApp1\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice2\\Game\\ConsoleApp1\\Game.csproj",
+        "projectUniqueName": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice2\\Game\\ConsoleApp1\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice2\\Game\\ConsoleApp1\\Game.csproj",
+        "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice2\\Game\\ConsoleApp1\\Game.csproj",
         "packagesPath": "C:\\Users\\Vitaliy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice2\\Game\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice2\\Game\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

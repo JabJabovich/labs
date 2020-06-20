@@ -1,5 +1,4 @@
-﻿ЫЫ
-using System;
+﻿using System;
 
 namespace ConsoleApp1
 {

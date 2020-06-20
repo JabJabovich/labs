@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\bibl.csproj",
+      "projectUniqueName": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\bibl.csproj",
       "projectName": "bibl",
-      "projectPath": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\bibl.csproj",
+      "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\bibl.csproj",
       "packagesPath": "C:\\Users\\Vitaliy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\obj\\",
+      "outputPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -238,7 +238,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

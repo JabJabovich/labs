@@ -1,0 +1,13 @@
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Vitaliy\Documents\GitHub\labs\practice2\Game\ConsoleApp1\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache

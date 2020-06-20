@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\lab8.1\\lab8.1.csproj": {}
+    "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\lab8.1\\lab8.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\bibl.csproj": {
+    "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\bibl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\bibl.csproj",
+        "projectUniqueName": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\bibl.csproj",
         "projectName": "bibl",
-        "projectPath": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\bibl.csproj",
+        "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\bibl.csproj",
         "packagesPath": "C:\\Users\\Vitaliy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\obj\\",
+        "outputPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -59,18 +59,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\lab8.1\\lab8.1.csproj": {
+    "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\lab8.1\\lab8.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\lab8.1\\lab8.1.csproj",
+        "projectUniqueName": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\lab8.1\\lab8.1.csproj",
         "projectName": "lab8.1",
-        "projectPath": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\lab8.1\\lab8.1.csproj",
+        "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\lab8.1\\lab8.1.csproj",
         "packagesPath": "C:\\Users\\Vitaliy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\lab8.1\\obj\\",
+        "outputPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\lab8.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\bibl.csproj": {
-                "projectPath": "C:\\Users\\Vitaliy\\source\\repos\\lab8.1\\bibl\\bibl.csproj"
+              "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\bibl.csproj": {
+                "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab08\\lab8.1\\bibl\\bibl.csproj"
               }
             }
           }
@@ -119,7 +119,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

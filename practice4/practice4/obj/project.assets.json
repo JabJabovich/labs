@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice4\\practice4\\practice4.csproj",
+      "projectUniqueName": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice4\\practice4\\practice4.csproj",
       "projectName": "practice4",
-      "projectPath": "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice4\\practice4\\practice4.csproj",
+      "projectPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice4\\practice4\\practice4.csproj",
       "packagesPath": "C:\\Users\\Vitaliy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitaliy\\Desktop\\отчеты по практике\\practice4\\practice4\\obj\\",
+      "outputPath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\practice4\\practice4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

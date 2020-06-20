@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BY9SGSubMdGfvr73UvI3XQtyfRl/jMVSSRNd/0Xzx1JfuXD79iSRtbCpFdDWVW8LEXtSdtj60ufwPCN6EEO3ug==",
+  "dgSpecHash": "6tSAZeJSJwBdPQVVhnCSVmuX8hy2fRIQViz2JGSJ8zEBFJ9V+1L4lnqIYyp0z6XWYJyLWsVOHthbkXsCQQ0Oug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vitaliy\\source\\repos\\lab_9\\lab_9\\lab_9.csproj",
+  "projectFilePath": "C:\\Users\\Vitaliy\\Documents\\GitHub\\labs\\Lab09\\lab_9\\lab_9\\lab_9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vitaliy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Vitaliy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

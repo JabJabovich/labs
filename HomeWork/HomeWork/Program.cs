@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace HomeWork
 {
@@ -19,6 +20,19 @@ namespace HomeWork
                 Persons[i].Info();
                 
             }
+            Console.WriteLine("Введите возраст, по которому желаете отсортировать:");
+            int age = int.Parse(Console.ReadLine());
+            var ListOfPeople = new List<object>
+            {teacher, student, admin, manager};
+            foreach (Person x in ListOfPeople)
+            {
+                if (x.Age() > age)
+                {
+                    Console.WriteLine("\n***********************************");
+                    x.Info();
+                }
+            }
+
         }
     }
 }
