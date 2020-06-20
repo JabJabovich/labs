@@ -1,0 +1,17 @@
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\bin\Debug\netstandard2.0\Bibl.deps.json
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\bin\Debug\netstandard2.0\Bibl.dll
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\bin\Debug\netstandard2.0\Bibl.pdb
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.csprojAssemblyReference.cache
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfoInputs.cache
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfo.cs
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.dll
+C:\Users\anjac\OneDrive\Рабочий стол\а)\институт\Программирование\C#\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.pdb
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\bin\Debug\netstandard2.0\Bibl.deps.json
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\bin\Debug\netstandard2.0\Bibl.dll
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\bin\Debug\netstandard2.0\Bibl.pdb
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.csprojAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfo.cs
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.dll
+C:\Users\Vitaliy\Desktop\HomeWork\Bibl\obj\Debug\netstandard2.0\Bibl.pdb
